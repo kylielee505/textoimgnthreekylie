@@ -1,5 +1,5 @@
 ---
-title: Text-to-Image Gradio Template
+title: Votepurchase ChilloutMix
 emoji: 🖼
 colorFrom: purple
 colorTo: red
