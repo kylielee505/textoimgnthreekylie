@@ -1,5 +1,5 @@
 ---
-title: Votepurchase ChilloutMix
+title: Votepurchase NSFW-gen-v2
 emoji: 🖼
 colorFrom: purple
 colorTo: red
