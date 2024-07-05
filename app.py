@@ -12,7 +12,7 @@ import spaces
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 pipe = StableDiffusionXLPipeline.from_pretrained(
-    "votepurchase/ChilloutMix",
+    "votepurchase/NSFW-gen-v2",
     torch_dtype=torch.float16,
 )
 
