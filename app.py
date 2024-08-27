@@ -1,3 +1,4 @@
+import spaces
 import gradio as gr
 import numpy as np
 import PIL.Image
@@ -7,7 +8,6 @@ from diffusers import ControlNetModel, StableDiffusionXLPipeline, AutoencoderKL
 from diffusers import DDIMScheduler, EulerAncestralDiscreteScheduler
 import cv2
 import torch
-import spaces
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
